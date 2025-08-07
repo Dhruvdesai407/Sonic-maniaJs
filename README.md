@@ -4,7 +4,7 @@ A simple Sonic-themed endless runner game built with Kaplay.js.
 
 ## Live Demo
 
-[Play the game here](https://Dhruvdesai407.github.io/Sonic-maniaJs/)
+[Play the game here](https://Dhruvdesai793.github.io/Sonic-maniaJs/)
 
 ## Installation and Local Setup
 
